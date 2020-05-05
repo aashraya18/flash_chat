@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "148274074478",
+    "firebase_url": "https://flash-chat-99238.firebaseio.com",
+    "project_id": "flash-chat-99238",
+    "storage_bucket": "flash-chat-99238.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148274074478:android:3844178c93b2618bd4677f",
+        "android_client_info": {
+          "package_name": "singal.aashraya.flashchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148274074478-o0uimlhbnmvi45bqpa7bng3va603lulj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwFzkZIKYXwzFNFNTD-ed88JgE7llCrkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148274074478-o0uimlhbnmvi45bqpa7bng3va603lulj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
