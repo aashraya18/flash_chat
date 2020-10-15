@@ -1,6 +1,6 @@
 # flashchat
 
-A new Flutter application.
+A new Flutter application where you can chat.
 
 ## Getting Started
 
